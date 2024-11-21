@@ -9,3 +9,6 @@ parallel-jobs = 1
 [Google Photos]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 arch = "arm64-v8a"
+cli-source = "ReVanced/revanced-cli"
+patches-source = "ReVanced/revanced-patches"
+integrations-source = "ReVanced/revanced-integrations"
